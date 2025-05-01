@@ -1,8 +1,12 @@
 streamlit
-colour-science[plotting]
+colour-science
 pandas
 numpy
-matplotlib--------------------------------------------------------------------
+matplotlib
+imageio
+networkx
+opencolorio
+pyqt5
 
 
---------------------------------------------------------------------
+
